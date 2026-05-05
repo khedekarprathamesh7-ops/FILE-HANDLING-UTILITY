@@ -29,3 +29,7 @@ The modifyFile() method is used to update existing content in the file. It first
 The showFileInfo() method displays basic file details such as file name, absolute path, and file size in bytes. This helps users understand file properties without manually opening it.
 
 Overall, this program demonstrates practical file handling in Java, including creation, reading, writing, modification, and file metadata retrieval. It also strengthens understanding of loops, conditional statements, exception handling, and object-oriented programming concepts, making it a useful beginner-level project for learning file management in Java.
+
+OUTPUT:
+
+<img width="1018" height="452" alt="Image" src="https://github.com/user-attachments/assets/77d15062-b8f3-453d-a0a0-d2f80c754363" />
